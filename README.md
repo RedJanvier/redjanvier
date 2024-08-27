@@ -28,7 +28,6 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://twitter.com/red_janvier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="redjanvier" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/red-janvier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redjanvier" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12978162/redjanvier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12978162" height="30" width="40" /></a>
-<a href="https://instagram.com/redjanvier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="redjanvier" height="30" width="40" /></a>
 
 ### ✨&nbsp; About Me
 
