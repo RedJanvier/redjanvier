@@ -31,7 +31,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 6+ years of experience in developing enterprise applications and open-source software.
+I am a Full Stack Developer with 7+ years of experience in developing enterprise applications and open-source software.
 
 During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to [UzakuraHub](https://github.com/UzakuraHub), I was appointed as a maintainer and community leader with write access to all of UzakuraHub's repositories. I have also made contributions to a variety of other open-source projects and organizations, including Mozilla, Node.JS etc
 
