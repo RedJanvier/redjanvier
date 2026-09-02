@@ -68,4 +68,5 @@ Cloud-native architecture, distributed systems, AI-assisted development and prod
 ### Let's connect
 
 🌐 Portfolio: https://redjanvier.netlify.app
+
 💼 LinkedIn: https://linkedin.com/in/red-janvier
